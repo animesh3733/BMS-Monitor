@@ -1,5 +1,6 @@
 {
   "name": "",
+  "type": "module",
   "version": "1.0.0",
   "description": "---fill-this---",
   "main": "index.js",
